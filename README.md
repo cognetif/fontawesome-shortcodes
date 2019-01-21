@@ -1,4 +1,4 @@
-#FontAwesome Shortcodes
+# FontAwesome Shortcodes
 This project is a PerchCMS add-on app that enables FontAwesome shortcodes in the CMS text fields.
  
 
