@@ -31,7 +31,8 @@ This project is free, open source, and GPL friendly. You can use it for commerci
 
 
 ## Donations
-This is free software but it took some time to develop.  If you use it, please send me a message I'd be interested to know which site uses it. If y$
+This is free software but it took some time to develop.  If you use it, please send me a message I'd be interested to know which site uses it. If you appreciate the app and use it regularly, feel free to [Buy me a Beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6EBCDCCZRNSWW&source=url)!
+
 
 ## Issues
 Create a GitHub Issue: https://github.com/cognetif/fontawesome-shortcodes/issues
