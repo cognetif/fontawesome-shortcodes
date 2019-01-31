@@ -8,7 +8,6 @@ This project is a PerchCMS add-on app that enables FontAwesome shortcodes in the
 3. If using ckeditor, add: `"PERCH_LOGINPATH/addons/apps/cognetif_fontawesome/ckeditor.js"` to `addons/plugins/editors/ckeditor/_config.json`
 
 
-
 ## Usage:
 
 In any html text field add : `[cms:cfa user]` will render: `<i class="fa fa-user"></i>` to the region markup.
@@ -30,9 +29,13 @@ If you need to update the icon source json file, there is a generation script in
 ## License
 This project is free, open source, and GPL friendly. You can use it for commercial projects, open source projects, or really almost whatever you want.
 
-## Issues
-Create a GitLab Issue: https://gitlab.com/cognetif-open-source/perchcms/fontawesome-shortcodes/issues
 
+## Donations
+This is free software but it took some time to develop.  If you use it, please send me a message I'd be interested to know which site uses it. If y$
+
+## Issues
+Create a GitHub Issue: https://github.com/cognetif/fontawesome-shortcodes/issues
+ 
 ## Developper
 
 Cognetif : Jordin Brown <jbrown@cognetif.com>
